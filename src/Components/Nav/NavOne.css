@@ -1,0 +1,19 @@
+.NavOne {
+  @apply md:px-3 md:py-5 bg-gray-100 absolute rounded-full shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)]
+
+    md:flex md:justify-center md:h-[400px] md:top-1/2 md:-translate-y-1/2 md:left-[20px] md:-translate-x-[0]
+
+     bottom-[10px] px-[15px] py-[5px] left-1/2 -translate-x-1/2;
+}
+
+.NavOne .btns {
+  @apply flex flex-row md:flex-col md:items-center md:justify-between gap-3 md:gap-0;
+}
+
+.NavOne .btns button {
+  @apply text-[24px] md:text-3xl text-gray-500 hover:text-primary duration-500;
+}
+
+.NavOne .btns .main {
+  @apply md:w-[50px] md:h-[50px] w-[40px] h-[40px] bg-gray-500 rounded-full border-[4px] border-primary overflow-hidden;
+}
