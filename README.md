@@ -2,7 +2,7 @@
 
 Real-Time Chat Application with React & Firebase
 
-[VISIT](https://react-firebase-chat-app-gules.vercel.app/)
+[VISIT](https://chat-app-test-zeta.vercel.app/)
 
 ## FEATURES :
 
